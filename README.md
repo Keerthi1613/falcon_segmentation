@@ -52,6 +52,7 @@ venv\Scripts\activate
 
 pip install -r requirements.txt
 
+
 How to Run:
 
 1.Train the model
@@ -63,18 +64,14 @@ python segmentation_code/train.py
 python segmentation_code/test.py
 
 Project Report:
+
 The detailed project report includes:
 
 1.Problem definition
-
 2.Dataset description
-
 3.Model architecture
-
 4.Training pipeline
-
 5.Results and analysis
-
 6.Observations and limitations
 
  Location:
@@ -84,13 +81,9 @@ The detailed project report includes:
 Tech Stack:
 
 1.Python
-
 2.PyTorch
-
 3.NumPy
-
 4.OpenCV
-
 5.Matplotlib
 
 Author:
