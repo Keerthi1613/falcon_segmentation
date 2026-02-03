@@ -38,7 +38,7 @@ falcon_segmentation/
  Installation & Setup:
  
 1️. Clone the repository
-git clone https://github.com/keerthi613/falcon_segmentation.git
+git clone https://github.com/keerthi1613/falcon_segmentation.git
 
 cd falcon_segmentation
 
