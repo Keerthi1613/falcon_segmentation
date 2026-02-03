@@ -1,0 +1,6 @@
+venv/
+Offroad_Segmentation_Training_Dataset/
+Offroad_Segmentation_testimages/
+_pycache_/
+*.pt
+*.pth
