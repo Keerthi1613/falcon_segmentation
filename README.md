@@ -38,38 +38,47 @@ falcon_segmentation/
 1️. Clone the repository
 git clone https://github.com/keerthi613/falcon_segmentation.git
 cd falcon_segmentation
+
 2️.Create and activate virtual environment
 python -m venv venv
 venv\Scripts\activate
+
 3️.Install dependencies
 pip install -r requirements.txt
+
 How to Run:
+
 1.Train the model
 python segmentation_code/train.py
+
 2.Test / evaluate
 python segmentation_code/test.py
 
 Project Report:
 The detailed project report includes:
--Problem definition
--Dataset description
--Model architecture
--Training pipeline
--Results and analysis
--Observations and limitations
+
+1.Problem definition
+2.Dataset description
+3.Model architecture
+4.Training pipeline
+5.Results and analysis
+6.Observations and limitations
+
  Location:
+ 
  Falcon_Segmentation_Report.docx
 
 Tech Stack:
--Python
--PyTorch
--NumPy
--OpenCV
--Matplotlib
+1.Python
+2.PyTorch
+3.NumPy
+4.OpenCV
+5.Matplotlib
 
 Author:
 Keerthi S Ragate
 Artificial Intelligence & Machine Learning
+
 GitHub: https://github.com/keerthi613
 
 
